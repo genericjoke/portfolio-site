@@ -1,0 +1,29 @@
+body{
+    background: #C4331E;
+background: -moz-linear-gradient(top, #C4331E 0%, #CB240F 42%, #861307 100%);
+background: -webkit-linear-gradient(top, #C4331E 0%, #CB240F 42%, #861307 100%);
+background: linear-gradient(to bottom, #C4331E 0%, #CB240F 42%, #861307 100%);
+background-attachment: fixed;
+}
+body > #briefExplanation {
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 600px;
+    background: #2b74a1;
+    background: -moz-linear-gradient(top, #280ca3 0%, #120fcb 42%, #076686 100%);
+    background: -webkit-linear-gradient(top, #103ba7 0%, #2b0fcb 42%, #073886 100%);
+    background: linear-gradient(to bottom, #1e82c4 0%, #0fb8cb 42%, #071886 100%);
+    background-attachment: fixed;
+    box-shadow: #071886;
+    font-size: larger;
+}
+
+h2 {
+    text-align: center;
+}
+h1{
+    font-style: oblique;
+    font-weight: bold;
+    font-size:2cm;
+}
